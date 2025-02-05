@@ -416,7 +416,7 @@ def loadDummy(settings, sandboxId) {
         requestBody:                requestBody, 
         url:                        settings.ces.url + '/ispw/' + settings.ispw.runtimeConfig + '/assignments/' + sandboxId + '/tasks', 
         validResponseCodes:         '201', 
-        wrapAsMultipart:            false
+        wrapAsMultipart:            false 
     )
 }
 
