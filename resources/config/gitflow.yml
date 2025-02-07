@@ -183,7 +183,7 @@ executionEnvironments:
       changedProgramsFile:      './changedPrograms.json'
       branchInfo:
         feature:
-          ispwLevel:            FEAT
+          ispwLevel:            DEV1
           mapRule:              per-branch
         hotfix:
           ispwLevel:            HFIX
