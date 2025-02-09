@@ -27,7 +27,7 @@ executionEnvironments:
       changedProgramsFile:      './changedPrograms.json'
       branchInfo:
         feature:
-          ispwLevel:            FEAT
+          ispwLevel:            DEV1
           mapRule:              per-branch
         hotfix:
           ispwLevel:            HFIX
@@ -40,7 +40,7 @@ executionEnvironments:
           mapRule:              per-branch
     ttt:
       loadLibQualfiers:
-        FEAT:
+        DEV1:
           level1:               FT1
           level2:               FT1
           level3:               DEVL
@@ -105,7 +105,7 @@ executionEnvironments:
       changedProgramsFile:      './changedPrograms.json'
       branchInfo:
         feature:
-          ispwLevel:            FEAT
+          ispwLevel:            DEV1
           mapRule:              per-branch
         hotfix:
           ispwLevel:            HFIX
@@ -118,7 +118,7 @@ executionEnvironments:
           mapRule:              per-branch
     ttt:
       loadLibQualfiers:
-        FEAT:
+        DEV1:
           level1:               FT1
           level2:               FT1
           level3:               DEVL
@@ -196,7 +196,7 @@ executionEnvironments:
           mapRule:              per-branch
     ttt:
       loadLibQualfiers:
-        FEAT:
+        DEV1:
           level1:               FT1
           level2:               FT1
           level3:               DEVL
@@ -261,7 +261,7 @@ executionEnvironments:
       changedProgramsFile:      './changedPrograms.json'
       branchInfo:
         feature:
-          ispwLevel:            FEAT
+          ispwLevel:            DEV1
           mapRule:              per-branch
         hotfix:
           ispwLevel:            HFIX
@@ -274,7 +274,7 @@ executionEnvironments:
           mapRule:              per-branch
     ttt:
       loadLibQualfiers:
-        FEAT:
+        DEV1:
           level1:               FT1
           level2:               FT1
           level3:               DEVL
