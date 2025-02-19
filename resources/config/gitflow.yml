@@ -178,7 +178,7 @@ executionEnvironments:
         sourcesFolder:          '/Sources'
       configFile:
         folder:                 './GenApp_MainframeCore'
-        name:                   'ispwconfig.yml'
+        name:                   'ispwconfig-jalaj.yml'
       automaticBuildFile:       './automaticBuildParams.txt'
       changedProgramsFile:      './changedPrograms.json'
       branchInfo:
